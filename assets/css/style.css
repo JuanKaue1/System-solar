@@ -13,7 +13,7 @@ body {
     margin: auto;
     position: fixed;
     z-index: 99;
-    background-image: url(./assets/img/space.png);
+    background-image: url(/assets/img/space.png);
     background-size: 50%;
     transform: scale(.7);
 }
