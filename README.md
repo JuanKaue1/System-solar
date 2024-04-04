@@ -13,6 +13,3 @@ This is a project that replicates the solar system using HTML, CSS, and JavaScri
 1. Clone this repository or download the ZIP file.
 2. Open the `index.html` file in your web browser.
 3. Explore the solar system by clicking on the planets.
-
-## Project Structure
-
